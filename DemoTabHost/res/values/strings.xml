@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DemoTabHost</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+     <string name="tab1_fragment_string">Fragment 1</string>
+     <string name="tab2_fragment_string">Fragment 2</string>
+     <string name="tab3_fragment_string">Fragment 3</string>
+     
+      <string name="tabhost_using_fragment">Using Tabhost with Fragment</string>
+       <string name="tabhost_using_activity">Using Tabhost with Activity</string>
+
+</resources>
